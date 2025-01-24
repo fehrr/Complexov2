@@ -1,0 +1,36 @@
+
+=================== permissãos AMD ===================
+group id Admin 
+group id Moderator 
+
+=================== permissãos Police ===================
+
+group masterPolice 
+group id Police 
+group id State 
+group id Ranger 
+group id Sheriff 
+group id Corrections 
+
+=================== permissãos mecanico e medico ===================
+
+group id masterParamedic
+group id Mechanic
+
+===================permissãos fac ===================
+
+group id Ballas
+group id EastSide
+group id Vagos
+group id Families
+group id Aztecas
+group id Bloods
+group id TheLost
+group id Vinhedo
+group id Vanilla
+group id Triads
+group id Razors
+group id Runners
+group id BurgerShot
+
+======================== para vc olha ou trocar de permissãos so no arquivo vrp/modules/group ======================================
